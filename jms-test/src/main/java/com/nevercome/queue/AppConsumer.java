@@ -1,4 +1,4 @@
-package com.sun.jms.queue;
+package com.nevercome.queue;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 

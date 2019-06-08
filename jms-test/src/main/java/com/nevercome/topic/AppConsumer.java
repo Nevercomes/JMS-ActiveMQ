@@ -1,4 +1,4 @@
-package com.sun.jms.topic;
+package com.nevercome.topic;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 

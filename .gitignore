@@ -1,0 +1,16 @@
+.mymetadata
+.checkstyle
+.classpath
+.project
+.class
+.war
+.zip
+.rar
+.7z
+.idea
+*.iml
+.settings/*
+/index/*
+/target/*
+/out/
+/src/main/webapp/WEB-INF/classes/*
